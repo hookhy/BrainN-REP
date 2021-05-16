@@ -1,6 +1,10 @@
 # BrainN-REP (Brain Network Representation)
 Graph Neural Network-based model for brain network representation (Hyeokjin-Kwon et al., 2021. In progress)
 
+CONDA env setting:
+
+  conda env create --file BraiNREP_envrionment.yml
+
 Main architecture
 
 <img width="734" alt="그림1" src="https://user-images.githubusercontent.com/84267304/118391771-05374500-b671-11eb-93a3-0f08e5a4593b.png">
