@@ -3,7 +3,7 @@ Graph Neural Network-based model for brain network representation (Hyeokjin-Kwon
 
 CONDA env setting:
 
-  conda env create --file BraiNREP_envrionment.yml
+    conda env create --file BraiNREP_envrionment.yml
 
 Main architecture
 
