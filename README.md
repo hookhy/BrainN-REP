@@ -1,5 +1,5 @@
 # BrainN-REP
-Graph Neural Network-based model for brain network representation
+Graph Neural Network-based model for brain network representation (Hyeokjin-Kwon et al., 2021. In progress)
 
 Main architecture
 
